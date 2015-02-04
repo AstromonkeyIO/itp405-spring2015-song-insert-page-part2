@@ -1,0 +1,54 @@
+::-webkit-input-placeholder {
+    color: #87CEFA;
+     
+}
+
+.addButton {
+    
+    width: 150px;
+    height: 50px;
+    background-color: #87CEFA;
+    color: white;
+    border: none;
+    outline: none;
+    font-family: "HelveticaNueve";
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.addButton:hover {
+    
+    opacity: 0.75;
+    
+}
+
+.message {
+    
+    width: 400px;
+    height: 70px;
+    background-color: #87CEFA;
+    color: white;
+    border: none;
+    outline: none;
+    font-family: "HelveticaNueve";
+    font-size: 30px;
+    font-weight: bold; 
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.songInput {
+    
+    width: 300px;
+    height: 50px;
+    font-family: "HelveticaNueve";
+    font-size: 30px;
+    font-weight: bold;
+    color: #87CEFA;
+    
+    
+}
+
+
